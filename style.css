@@ -1,0 +1,16 @@
+html {
+  height: 110%;
+  width: 110%;
+}
+body{
+  text-align: center;
+  background-color: #f0f8ff;
+  color:skyblue;
+  font-size:larger;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+input{
+  color:skyblue;
+  background-color: #f0f8ff;
+}
